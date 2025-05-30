@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "125"
+	"mapversion" "127"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -107,7 +107,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "125"
+	"mapversion" "127"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -8471,7 +8471,7 @@ entity
 	"classname" "env_cubemap"
 	"cubemapsize" "8"
 	"parallaxobb" "parallax_obb"
-	"sides" "1894"
+	"sides" "1992 1990 1993 1991 1989 1988"
 	"origin" "72 488 116"
 	editor
 	{
