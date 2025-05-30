@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "plinthe/wood_plainthe-colr"
+	"$bumpmap" "plinthe/wood_plainthe-norml"
+	"$normalmap" "plinthe/wood_plainthe-norml"
+	"$surfaceprop" "Wood_Solid"
+}

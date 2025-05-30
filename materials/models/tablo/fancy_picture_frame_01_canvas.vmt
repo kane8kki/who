@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tablo/fancy_picture_frame_01_canvas_diff"
+	"$bumpmap" "models/tablo/fancy_picture_frame_01_canvas_nrm"
+	"$envmap" "env_cubemap"
+	"$normalmap" "models/tablo/fancy_picture_frame_01_canvas_nrm"
+}

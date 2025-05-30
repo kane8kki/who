@@ -1,0 +1,20 @@
+"UnlitGeneric" 
+{
+    "$baseTexture" "filmgrain/noise"
+    "$translucent" "1"
+    "Proxies"
+    {
+        "AnimatedTexture"
+        {
+            "animatedTextureVar" "$basetexture"
+            "animatedTextureFrameNumVar" "$frame"
+            "animatedTextureFrameRate" "60"
+        }
+        "TextureScroll"
+        {
+            "texturescrollvar" "$basetexturetransform"
+            "texturescrollrate" 10
+            "texturescrollangle" "45"
+        }
+    }
+}

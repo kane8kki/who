@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "dor2/dor2_diff"
+	"$bumpmap" "dor2/dor2_nrm"
+	"$surfaceprop" "Wood_Furniture"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.03 .03 .03]"
+}

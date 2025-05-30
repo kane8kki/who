@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props/nou_nours/pau_nounours"
+	"$surfaceprop" "BloodyFlesh"
+}

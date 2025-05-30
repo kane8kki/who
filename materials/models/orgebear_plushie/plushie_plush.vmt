@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/orgebear_plushie/plushie_plush_diff"
+	"$bumpmap" "models/orgebear_plushie/plushie_plush_nrm"
+	"$normalmap" "models/orgebear_plushie/plushie_plush_nrm"
+	"$surfaceprop" "Flesh"
+}

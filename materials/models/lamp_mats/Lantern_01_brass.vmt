@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lamp_mats/Lantern_01_brass_diff"
+	"$bumpmap" "models/lamp_mats/Lantern_01_brass_nrm"
+	"$envmapmask" "models/lamp_mats/Lantern_01_brass_envmap"
+	"$envmap" "env_cubemap"
+
+    "$phong" "1"
+    "$phongboost" "1"
+    "$phongfresnelranges" "[7 0.5 1]"
+
+    // Optional: si tu veux activer la lumiÃ¨re dynamique + ombrage
+    "$model" "1"
+	"$surfaceprop" "Metal"
+}

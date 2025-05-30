@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/eyeofrah/eye_mat2"
+	"$bumpmap" "models/eyeofrah/eye_mat2_nrm"
+	"$normalmap" "models/eyeofrah/eye_mat2_nrm"
+	"$surfaceprop" "Metal"
+}

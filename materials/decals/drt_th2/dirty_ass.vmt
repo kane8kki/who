@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/drt_th2/dirty_ass_diff"
+	"$bumpmap" "decals/drt_th2/dirty_ass_nrm"
+	"$normalmap" "decals/drt_th2/dirty_ass_nrm"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.25"               
+}

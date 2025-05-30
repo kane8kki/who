@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "old_wallpaper_ported/old_wllppr_diff"
+	"$bumpmap" "old_wallpaper_ported/old_wllppr_nrm"
+	"$normalmap" "old_wallpaper_ported/old_wllppr_nrm"
+	"$surfaceprop" "Wood_Solid"
+}

@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/end_table/metal_trim_painted_blend_01_diff"
+	"$bumpmap" "models/end_table/metal_trim_painted_blend_01_nrm"
+	"$envmapmask" "models/end_table/metal_trim_painted_blend_01_envmap"
+	"$envmap" "env_cubemap"
+
+    "$phong" "1"
+    "$phongboost" "1"
+    "$phongfresnelranges" "[1 0.5 1]"
+
+    // Optional: si tu veux activer la lumière dynamique + ombrage
+    "$model" "1"
+	"$surfaceprop" "Wood_Furniture"
+}

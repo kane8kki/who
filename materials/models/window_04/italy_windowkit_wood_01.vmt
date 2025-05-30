@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/window_04/italy_windowkit_wood_01_diff"
+	"$bumpmap" "models/window_04/italy_windowkit_wood_01_nrm"
+	"$surfaceprop" "Wood_Furniture"
+	"$envmapmask" "models/window_04/italy_windowkit_wood_01_envmap"
+	"$envmap" "env_cubemap"
+
+    "$phong" "1"
+    "$phongboost" "1"
+    "$phongfresnelranges" "[1 0.5 1]"
+
+    // Optional: si tu veux activer la lumière dynamique + ombrage
+    "$model" "1"
+}

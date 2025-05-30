@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xhezzeplastik/SchoolChair_01_albedo"
+	"$bumpmap" "models/xhezzeplastik/SchoolChair_01_nrm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.2 .2 .2]"
+	"$surfaceprop" "Wood_Box"
+}

@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete_stair_1/concrete_stair_01_diff"
+	"$bumpmap" "concrete_stair_1/concrete_stair_01_nrm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.008 .008 .008]"
+	"$normalmap" "concrete_stair_1/concrete_stair_01_nrm"
+	"$surfaceprop" "Concrete"
+}

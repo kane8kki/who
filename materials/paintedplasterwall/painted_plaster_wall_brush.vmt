@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "paintedplasterwall/painted_plaster_wall_diff"
+	"$bumpmap" "paintedplasterwall/painted_plaster_wall_nrm"
+	"$normalmap" "paintedplasterwall/painted_plaster_wall_nrm"
+	"$surfaceprop" "Wood_Solid"
+}

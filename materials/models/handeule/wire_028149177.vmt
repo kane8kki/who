@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/handeule/Metal009_4K-JPG_Color"
+	"$surfaceprop" "Metal"
+	"$bumpmap" "models/handeule/Metal009_4K-JPG_NormalGL"
+	"$envmap" "env_cubemap"
+}

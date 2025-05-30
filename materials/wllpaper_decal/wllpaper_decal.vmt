@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "wllpaper_decal/wllpaper_decal"
+	"$alphatest" 1	
+	"$decal" 1
+	"$decalscale" .25
+}

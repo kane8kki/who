@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/door3_mats/door_generic_mat"
+	"$surfaceprop" "Wood_Furniture"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lightbulb/lightbulb_01_base"
+	"$bumpmap" "models/lightbulb/lightbulb_01_base_nrm"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props/baseball_01_diff"
+	"$bumpmap" "models/props/baseball_01_normal"
+	"$normalmap" "models/props/baseball_01_normal"
+	"$surfaceprop" "Default"
+}

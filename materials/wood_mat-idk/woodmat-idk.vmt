@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "wood_mat-idk/woodtkxtur-colr"
+	"$bumpmap" "wood_mat-idk/woodtkxtur-norml"
+	"$normalmap" "wood_mat-idk/woodtkxtur-norml"
+	"$surfaceprop" "Wood_Solid"
+}

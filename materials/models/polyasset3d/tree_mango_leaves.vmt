@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+$basetexture models/polyasset3d/tree_mango_leaves
+$bumpmap models/polyasset3d/tree_mango_leaves_normal
+$nocull 1
+$alphatest 1
+}

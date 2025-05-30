@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "0ak/oak_texture-colr"
+	"$bumpmap" "0ak/oak_texture-nrm"
+	"$normalmap" "0ak/oak_texture-nrm"
+	"$surfaceprop" "Wood_Solid"
+}

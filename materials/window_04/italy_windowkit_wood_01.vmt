@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/window_04/italy_windowkit_wood_01_diff"
+	"$bumpmap" "models/window_04/italy_windowkit_wood_01_nrm"
+	"$normalmap" "models/window_04/italy_windowkit_wood_01_nrm"
+	"$surfaceprop" "Wood_Furniture"
+}

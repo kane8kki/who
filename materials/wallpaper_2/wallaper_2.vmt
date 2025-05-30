@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "wallpaper_2/wallaper_2_diff"
+	"$bumpmap" "wallpaper_2/wallaper_2_nrm"
+	"$normalmap" "wallpaper_2/wallaper_2_nrm"
+	"$surfaceprop" "Wood_Solid"
+}

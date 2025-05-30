@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "oldcarpet/oldcarpet_diff"
+	"$bumpmap" "oldcarpet/oldcarpet_nrm"
+	"$normalmap" "oldcarpet/oldcarpet_nrm"
+	"$surfaceprop" "Carpet"
+}

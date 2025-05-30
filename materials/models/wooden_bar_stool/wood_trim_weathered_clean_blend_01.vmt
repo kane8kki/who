@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/wooden_bar_stool/wood_trim_weathered_clean_blend_01_diff"
+	"$bumpmap" "models/wooden_bar_stool/wood_trim_weathered_clean_blend_01_nrm"
+	"$normalmap" "models/wooden_bar_stool/wood_trim_weathered_clean_blend_01_nrm"
+	"$surfaceprop" "Wood_Furniture"
+}

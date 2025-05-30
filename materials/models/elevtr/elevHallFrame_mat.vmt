@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/elevtr/elevHallFrame_mat_diff"
+	"$envmapmask" "models/elevtr/elevHallFrame_mat_envmap"
+	"$bumpmap" "models/elevtr/elevHallFrame_mat_nrm"
+	"$envmap" "env_cubemap"
+
+    "$phong" "1"
+    "$phongboost" "1"
+    "$phongfresnelranges" "[1 0.5 1]"
+
+    // Optional: si tu veux activer la lumière dynamique + ombrage
+    "$model" "1"
+}

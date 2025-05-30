@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/plith_maths/painted_plaster_wall_diff"
+	"$bumpmap" "models/plith_maths/painted_plaster_wall_nrm"
+	"$normalmap" "models/plith_maths/painted_plaster_wall_nrm"
+}

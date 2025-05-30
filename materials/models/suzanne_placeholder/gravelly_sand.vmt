@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/suzanne_placeholder/gravelly_sand_diff"
+	"$bumpmap" "models/suzanne_placeholder/gravelly_sand_nrm"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/suzanne_placeholder/gravelly_sand_envmap"
+	"$surfaceprop" "Gravel"
+
+    "$phong" "1"
+    "$phongboost" "1"
+    "$phongfresnelranges" "[0.2 0.5 1]"
+
+    // Optional: si tu veux activer la lumière dynamique + ombrage
+    "$model" "1"
+}

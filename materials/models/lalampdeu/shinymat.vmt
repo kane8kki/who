@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lalampdeu/shinymat"
+	"$surfaceprop" "Wood"
+	"$bumpmap" "models/lalampdeu/shinymat_nrm"
+	"$envmap" "env_cubemap"
+}

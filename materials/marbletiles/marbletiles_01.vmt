@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "marbletiles/marbletiles_color"
+	"$normalmap" "marbletiles/marbletiles_nrm"
+	"$surfaceprop" "Tile"
+}

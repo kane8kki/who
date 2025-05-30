@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/betta_door/Door_diff"
+	"$bumpmap" "models/betta_door/Door_nrm"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "Metal"
+}

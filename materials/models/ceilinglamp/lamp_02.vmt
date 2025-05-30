@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ceilinglamp/lamp_02"
+	"$selfillum" "1"
+    "$selfillummask" "models/ceilinglamp/lamp_02"  // Texture noire et blanche (zones blanches = zones lumineuses)
+    "$selfillumtint" "[1.0 1.0 1.0]"
+}

@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "interior ceiling/ceiling_diffsmp"
+	"$bumpmap" "interior ceiling/ceiling_nrmmp"
+	"$normalmap" "interior ceiling/ceiling_nrmmp"
+	"$surfaceprop" "Wood_Solid"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.2 .2 .2]"
+}

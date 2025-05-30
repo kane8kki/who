@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hostel carpet/hostel_carpet_colr"
+	"$bumpmap" "hostel carpet/hostel_carpet_nrm"
+	"$surfaceprop" "Grass"
+	"$translucent" 1
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sprites/eyyyes"
+	"$translucent" 1
+	"$spriteorientation" vp_parallel
+	"$spriteorigin" "[ 0.50 0.50 ]"
+}

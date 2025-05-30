@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+    "$basetexture" "decal_light/light_decal-texture"
+    "$translucent" "1"
+    "$decal" "1"
+    "$decalscale" "0.25"
+    "$nocull" "1"
+    "$selfillum" "1"
+    "$additive" "1"
+}

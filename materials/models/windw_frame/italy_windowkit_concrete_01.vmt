@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/windw_frame/italy_windowkit_concrete_01_diff"
+	"$bumpmap" "models/windw_frame/italy_windowkit_concrete_01_nrm"
+	"$normalmap" "models/windw_frame/italy_windowkit_concrete_01_nrm"
+	"$surfaceprop" "Concrete"
+}

@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+$basetexture models/polyasset3d/tree_mango_trunk
+$bumpmap models/polyasset3d/tree_mango_trunk_normal
+}

@@ -1,0 +1,74 @@
+qdir:    "c:\program files (x86)\steam\steamapps\sourcemods\who\modelsrc\betta_door\handlebigdoortest\"
+gamedir: "C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\sourcetest\"
+g_path:  "C:\Program Files (x86)\Steam\steamapps\sourcemods\who\ModelSrc\betta_door\handlebigdoortest\handlebigdoortest.qc"
+Building binary model files...
+Working on "handlebigdoortest.qc"
+SMD MODEL handle_ref.smd
+SMD MODEL handle_colls.smd
+SMD MODEL anims/idle.smd
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Error with convex elements of handle_colls.smd, building single convex!!!!
+Model has 8 convex sub-parts
+Collision model completed.
+---------------------
+writing C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\sourcetest\models/betta_door/handlebigdoortest.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures        72 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+bone flex driver       0 bytes
+Collision model volume 182.37 in^3
+collision        0 bytes
+total         1760
+---------------------
+writing C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\sourcetest\models/betta_door/handlebigdoortest.vvd:
+vertices     14592 bytes (304 vertices)
+tangents      4864 bytes (304 vertices)
+total        19520 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\sourcetest\models/betta_door/handlebigdoortest.sw.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:           2736 bytes
+indices:         1824 bytes
+bone changes:      16 bytes
+everything:      4701 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\sourcetest\models/betta_door/handlebigdoortest.dx80.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:           2736 bytes
+indices:         1824 bytes
+bone changes:      16 bytes
+everything:      4701 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\sourcetest\models/betta_door/handlebigdoortest.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:           2736 bytes
+indices:         1824 bytes
+bone changes:      16 bytes
+everything:      4701 bytes
+
+Completed "handlebigdoortest.qc"
+
+
+
