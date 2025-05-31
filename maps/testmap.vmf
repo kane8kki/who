@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "127"
+	"mapversion" "128"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -107,7 +107,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "127"
+	"mapversion" "128"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -5279,9 +5279,9 @@ world
 				"v" "116 576 64"
 				"v" "116 372 64"
 			}
-			"material" "PLACEHOLDERS/JUSTBLACKANDREFLECTIVE"
-			"uaxis" "[0 1 0 -272] 0.05"
-			"vaxis" "[1 0 0 -480] 0.05"
+			"material" "WOODPLANKS/WOODPLANKS"
+			"uaxis" "[0 1 0 -272] 0.015"
+			"vaxis" "[1 0 0 -480] 0.015"
 			"rotation" "90"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"

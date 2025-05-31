@@ -1,6 +1,8 @@
-"LightmappedGeneric"
+"SDK_LightmappedGeneric"
 {
 	"$basetexture" "ceilingtile/ceilingtile_colr"
-	"$bumpmap" "ceilingtile/ceilingtile_nrm"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "ceilingtile/ceilingtile_bumpmap"
 	"$surfaceprop" "Wood_Panel"
+	"$normalmapalphaenvmapmask" "1"
 }

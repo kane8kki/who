@@ -1,9 +1,8 @@
-"LightmappedGeneric"
+"SDK_LightmappedGeneric"
 {
 	"$basetexture" "cs_2_ventg/vent_cs2_1_colr"
 	"$bumpmap" "cs_2_ventg/vent_cs2_1_norm"
 	"$normalmap" "cs_2_ventg/vent_cs2_1_norm"
 	"$surfaceprop" "Metalvent"
 	"$envmap" "env_cubemap"
-	"$envmaptint" "[.1 .1 .1]"
 }
