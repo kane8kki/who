@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$surfaceprop" "Wood_Solid"
+	"$basetexture" "woodplanks2/woodplanks_2_diff"
+	"$bumpmap" "woodplanks2/woodplanks_2_nrm"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+}
