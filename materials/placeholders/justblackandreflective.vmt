@@ -1,5 +1,6 @@
 "SDK_LightmappedGeneric"
 {
+	"$surfaceprop" "Glass"
 	"$basetexture" "placeholders/justblackandreflective"
 	"$envmap" "env_cubemap"
 }

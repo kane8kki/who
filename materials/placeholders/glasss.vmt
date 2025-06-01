@@ -1,0 +1,5 @@
+"SDK_LightmappedGeneric"
+{
+	"$envmap" "env_cubemap"
+	"$translucent" "1"
+}
