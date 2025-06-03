@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "4"
+	"mapversion" "6"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -68,7 +68,7 @@ light_plus
 postprocess_plus
 {
 	"enable" "0"
-	"copied_from_controller" "0"
+	"copied_from_controller" "1"
 	"bloom_scale" "1"
 	"bloom_exponent" "2.5"
 	"bloom_saturation" "1"
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "4"
+	"mapversion" "6"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -1585,7 +1585,7 @@ entity
 	{
 		"OnMapSpawn" "viewcontrol,Enable,,0,-1"
 		"OnMapSpawn" "wip,Display,,2,-1"
-		"OnMapSpawn" "command,Command,exit,20,-1"
+		"OnMapSpawn" "command,Command,startupmenu,20,-1"
 	}
 	"origin" "-24 -40 0.999992"
 	editor
