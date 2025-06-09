@@ -57,10 +57,15 @@
 "HL2Player.Use"
 {
 	"channel"	"CHAN_ITEM"
-	"volume"	"0.00"
+	"volume"	"0.0"
 	"soundlevel"  "SNDLVL_75dB"
-
-	"wave"	"common/wpn_select.wav"
+	"rndwave"
+	{
+		"wave"	"common/Use1.wav"
+		"wave"	"common/Use2.wav"
+		"wave"	"common/Use3.wav"
+		"wave"	"common/Use4.wav"
+	}
 }
 
 "HL2Player.UseNPC"
@@ -75,10 +80,18 @@
 "HL2Player.UseDeny"
 {
 	"channel"	"CHAN_ITEM"
-	"volume"	"0.00"
+	"volume"	"0.4"
 	"soundlevel"  "SNDLVL_75dB"
 
-	"wave"	"common/wpn_denyselect.wav"
+	"rndwave"
+	{
+		"wave"	"common/Use1.wav"
+		"wave"	"common/Use2.wav"
+		"wave"	"common/Use3.wav"
+		"wave"	"common/Use4.wav"
+		"wave"	"common/Use5.wav"
+		"wave"	"common/Use6.wav"
+	}
 }
 
 "HL2Player.BurnPain"

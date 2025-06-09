@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "140"
+	"mapversion" "162"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -107,7 +107,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "140"
+	"mapversion" "162"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -239,13 +239,13 @@ world
 		side
 		{
 			"id" "36"
-			"plane" "(-896 -192 160) (-928 -192 160) (-928 576 160)"
+			"plane" "(-896 -192 156) (-928 -192 156) (-928 576 156)"
 			vertices_plus
 			{
-				"v" "-896 -192 160"
-				"v" "-928 -192 160"
-				"v" "-928 576 160"
-				"v" "-896 576 160"
+				"v" "-896 -192 156"
+				"v" "-928 -192 156"
+				"v" "-928 576 156"
+				"v" "-896 576 156"
 			}
 			"material" "DEV/DEV_BLENDMEASURE"
 			"uaxis" "[-1 0 0 0] 0.25"
@@ -257,13 +257,13 @@ world
 		side
 		{
 			"id" "35"
-			"plane" "(-896 576 32) (-928 576 32) (-928 -192 32)"
+			"plane" "(-896 576 28) (-928 576 28) (-928 -192 28)"
 			vertices_plus
 			{
-				"v" "-896 576 32"
-				"v" "-928 576 32"
-				"v" "-928 -192 32"
-				"v" "-896 -192 32"
+				"v" "-896 576 28"
+				"v" "-928 576 28"
+				"v" "-928 -192 28"
+				"v" "-896 -192 28"
 			}
 			"material" "DEV/DEV_BLENDMEASURE"
 			"uaxis" "[-1 0 0 0] 0.25"
@@ -275,17 +275,17 @@ world
 		side
 		{
 			"id" "34"
-			"plane" "(-896 -192 160) (-896 576 160) (-896 576 32)"
+			"plane" "(-896 -192 156) (-896 576 156) (-896 576 28)"
 			vertices_plus
 			{
-				"v" "-896 -192 160"
-				"v" "-896 576 160"
-				"v" "-896 576 32"
-				"v" "-896 -192 32"
+				"v" "-896 -192 156"
+				"v" "-896 576 156"
+				"v" "-896 576 28"
+				"v" "-896 -192 28"
 			}
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[0 -1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"vaxis" "[0 0 -1 -16] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -293,17 +293,17 @@ world
 		side
 		{
 			"id" "33"
-			"plane" "(-928 -192 32) (-928 576 32) (-928 576 160)"
+			"plane" "(-928 -192 28) (-928 576 28) (-928 576 156)"
 			vertices_plus
 			{
-				"v" "-928 -192 32"
-				"v" "-928 576 32"
-				"v" "-928 576 160"
-				"v" "-928 -192 160"
+				"v" "-928 -192 28"
+				"v" "-928 576 28"
+				"v" "-928 576 156"
+				"v" "-928 -192 156"
 			}
 			"material" "DEV/DEV_BLENDMEASURE"
 			"uaxis" "[0 -1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"vaxis" "[0 0 -1 -16] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -311,17 +311,17 @@ world
 		side
 		{
 			"id" "32"
-			"plane" "(-928 -192 160) (-896 -192 160) (-896 -192 32)"
+			"plane" "(-928 -192 156) (-896 -192 156) (-896 -192 28)"
 			vertices_plus
 			{
-				"v" "-928 -192 160"
-				"v" "-896 -192 160"
-				"v" "-896 -192 32"
-				"v" "-928 -192 32"
+				"v" "-928 -192 156"
+				"v" "-896 -192 156"
+				"v" "-896 -192 28"
+				"v" "-928 -192 28"
 			}
 			"material" "DEV/DEV_BLENDMEASURE"
 			"uaxis" "[-1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"vaxis" "[0 0 -1 -16] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -329,17 +329,17 @@ world
 		side
 		{
 			"id" "31"
-			"plane" "(-928 576 32) (-896 576 32) (-896 576 160)"
+			"plane" "(-928 576 28) (-896 576 28) (-896 576 156)"
 			vertices_plus
 			{
-				"v" "-928 576 32"
-				"v" "-896 576 32"
-				"v" "-896 576 160"
-				"v" "-928 576 160"
+				"v" "-928 576 28"
+				"v" "-896 576 28"
+				"v" "-896 576 156"
+				"v" "-928 576 156"
 			}
 			"material" "DEV/DEV_BLENDMEASURE"
 			"uaxis" "[-1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"vaxis" "[0 0 -1 -16] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -8443,7 +8443,7 @@ entity
 {
 	"id" "12548"
 	"classname" "env_cubemap"
-	"cubemapsize" "9"
+	"cubemapsize" "6"
 	"parallaxobb" "parallax_obb"
 	"sides" "1992 1990 1993 1991 1989 1988"
 	"origin" "72 488 116"
@@ -8664,7 +8664,7 @@ entity
 {
 	"id" "12963"
 	"classname" "env_cubemap"
-	"cubemapsize" "9"
+	"cubemapsize" "6"
 	"parallaxobb" "bounding_box"
 	"origin" "-392 192 164"
 	editor
@@ -8804,6 +8804,239 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "13086"
+	"classname" "trigger_once"
+	"origin" "-704 -84 100"
+	"spawnflags" "1"
+	"StartDisabled" "0"
+	connections
+	{
+		"OnStartTouch" "hint_text_display,ShowHint,,3,-1"
+		"OnStartTouch" "kakaproute,Command,exec my_custom_bind.cfg,3,-1"
+		"OnStartTouch" "djee,Display,,3,-1"
+	}
+	solid
+	{
+		"id" "13083"
+		side
+		{
+			"id" "2017"
+			"plane" "(-768 -40 144) (-640 -40 144) (-640 -128 144)"
+			vertices_plus
+			{
+				"v" "-768 -40 144"
+				"v" "-640 -40 144"
+				"v" "-640 -128 144"
+				"v" "-768 -128 144"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2016"
+			"plane" "(-768 -128 56) (-640 -128 56) (-640 -40 56)"
+			vertices_plus
+			{
+				"v" "-768 -128 56"
+				"v" "-640 -128 56"
+				"v" "-640 -40 56"
+				"v" "-768 -40 56"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2015"
+			"plane" "(-768 -40 144) (-768 -128 144) (-768 -128 56)"
+			vertices_plus
+			{
+				"v" "-768 -40 144"
+				"v" "-768 -128 144"
+				"v" "-768 -128 56"
+				"v" "-768 -40 56"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2014"
+			"plane" "(-640 -40 56) (-640 -128 56) (-640 -128 144)"
+			vertices_plus
+			{
+				"v" "-640 -40 56"
+				"v" "-640 -128 56"
+				"v" "-640 -128 144"
+				"v" "-640 -40 144"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2013"
+			"plane" "(-640 -40 144) (-768 -40 144) (-768 -40 56)"
+			vertices_plus
+			{
+				"v" "-640 -40 144"
+				"v" "-768 -40 144"
+				"v" "-768 -40 56"
+				"v" "-640 -40 56"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2012"
+			"plane" "(-640 -128 56) (-768 -128 56) (-768 -128 144)"
+			vertices_plus
+			{
+				"v" "-640 -128 56"
+				"v" "-768 -128 56"
+				"v" "-768 -128 144"
+				"v" "-640 -128 144"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "13096"
+	"classname" "env_instructor_hint"
+	"hint_activator_caption" "'press g'"
+	"hint_allow_nodraw_target" "1"
+	"hint_alphaoption" "1"
+	"hint_caption" "'press g'"
+	"hint_color" "0 0 0"
+	"hint_forcecaption" "1"
+	"hint_icon_offscreen" "icon_alert"
+	"hint_icon_offset" "0"
+	"hint_icon_onscreen" "icon_button"
+	"hint_local_player_only" "1"
+	"hint_nooffscreen" "0"
+	"hint_pulseoption" "0"
+	"hint_range" "136"
+	"hint_shakeoption" "0"
+	"hint_start_sound" "ui/hint.wav"
+	"hint_static" "0"
+	"hint_target" "hint_trgt"
+	"hint_target_pos" "0"
+	"hint_timeout" "0"
+	"targetname" "hint_text_display"
+	"origin" "-660 -84 104"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "13138"
+	"classname" "logic_relay"
+	"StartDisabled" "0"
+	"targetname" "trigger_action"
+	connections
+	{
+		"OnTrigger" "fade_dieandrestart,Fade,,0,-1"
+		"OnTrigger" "kakaproute,Command,restart,2.02,-1"
+	}
+	"origin" "-562 32 65"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1500]"
+	}
+}
+entity
+{
+	"id" "13254"
+	"classname" "info_target"
+	"angles" "0 0 0"
+	"targetname" "hint_trgt"
+	"origin" "-660 -84 104"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
+entity
+{
+	"id" "13321"
+	"classname" "game_text"
+	"autobreak" "0"
+	"channel" "1"
+	"color" "255 255 255"
+	"color2" "255 255 255"
+	"effect" "0"
+	"fadein" "1.5"
+	"fadeout" "0.5"
+	"fxtime" "0.25"
+	"holdtime" "1.2"
+	"message" "press 'g'"
+	"targetname" "djee"
+	"x" "-1"
+	"y" "-1"
+	"origin" "-674 2 65"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2500]"
 	}
 }
 cameras
