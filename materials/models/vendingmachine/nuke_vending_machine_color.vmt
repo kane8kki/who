@@ -1,0 +1,13 @@
+"SDK_VertexLitGeneric"
+{
+	"$basetexture" "models/vendingmachine/nuke_vending_machine_color_diff"
+	"$bumpmap" "models/vendingmachine/nuke_vending_machine_color_nrm+envmap"
+	"$normalmapalphaenvmapmask" "1"
+	"$color2" "[0.2 0.2 0.2]"
+
+    "$phong" "1"
+    "$phongboost" "1"
+    "$phongfresnelranges" "[1 0.5 1]"
+
+    "$model" "1"
+}

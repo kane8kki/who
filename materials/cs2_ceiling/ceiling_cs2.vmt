@@ -1,0 +1,9 @@
+"SDK_LightmappedGeneric"
+{
+	"$basetexture" "cs2_ceiling/ceiling_diff"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "cs2_ceiling/ceiling_nrmalphaenvmap"
+	"$surfaceprop" "Wood_Panel"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.1 .1 .1]"
+}

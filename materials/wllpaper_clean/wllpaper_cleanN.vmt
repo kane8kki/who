@@ -1,0 +1,6 @@
+"SDK_LightmappedGeneric"
+{
+	"$basetexture" "wllpaper_clean/wllpaper_cleanN"
+	"$bumpmap" "wllpaper_clean/wllpaper_cleanN_nrmmpalphaenvmapmsk"
+	"$surfaceprop" "Concrete"
+}

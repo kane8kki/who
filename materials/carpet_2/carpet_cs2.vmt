@@ -1,0 +1,7 @@
+"SDK_LightmappedGeneric"
+{
+	"$basetexture" "carpet_2/carpet_diff"
+	"$bumpmap" "carpet_2/carpet_nrmalphaenvmap"
+	"$surfaceprop" "Carpet"
+	"$envmaptint" "[.0001 .0001 .0001]"
+}
