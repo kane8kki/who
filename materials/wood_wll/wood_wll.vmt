@@ -1,0 +1,9 @@
+"SDK_LightmappedGeneric"
+{
+	"$surfaceprop" "Wood_Solid"
+	"$basetexture" "wood_wll/wood_wll_diff"
+	"$bumpmap" "wood_wll/wood_wll_nrmalphaenvmapmask"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.3 .3 .3]"
+}
