@@ -1,0 +1,7 @@
+"SDK_LightmappedGeneric"
+{
+	"$basetexture" "grass_1/Grass1_diff"
+	"$bumpmap" "grass_1/Grass1_nrm"
+	"$normalmap" "grass_1/Grass1_nrm"
+	"$surfaceprop" "Grass"
+}

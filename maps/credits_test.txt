@@ -1,0 +1,63 @@
+//Adrian: This file contains the credits info for both the Intro and outro.
+"credits.txt"
+{
+
+//========================================================
+//These are the names used in the intro (trainride)
+//========================================================
+"IntroCreditsNames"
+{
+	"V"	"WeaponIcons"
+	" "	"CreditsText"
+	" "	"CreditsText"
+	"Mahaha"   "CreditsText"
+	"Tim Beer"    "CreditsText"
+	"Mahoho!"    "CreditsText"
+	"lololololololol"   "CreditsText"
+	"<what>"   "CreditsText"
+	"Wah"    "CreditsText"
+}
+
+"CreditsParams"
+{
+	"logo" "HALF-LIFE'"
+	
+	"fadeintime"	"2.5"
+	"fadeouttime"	"1"
+	"fadeholdtime"	"1.0"
+	"nextfadetime"	"1.0"
+	"pausebetweenwaves" "1.0"
+	"logotime" "1.0"
+	"posx"	"96"
+	"posy"	"360"
+
+	"color" "255 255 255 128"
+
+//Outro Parameters
+	"scrolltime" "20"
+	"separation"  "10"
+	"endlines" "0"
+}
+
+//========================================================
+//These are the names used in the outro (breen_01)
+//========================================================
+"OutroCreditsNames"
+{
+	"KREDITS"	"CreditsOutroLogos"
+	" "	"CreditsOutroText"
+	"KODING . . . . . . . . . KLAP TRAP"	"CreditsOutroText"
+	"KARACTERS . . . . . . . . . KRUSHA"	"CreditsOutroText"
+	"KOLOURING . . . . . . . . . KRITTER"	"CreditsOutroText"
+	"KONCEPT . . . . . . . . . KLUMP"	"CreditsOutroText"
+	"KOMMANDER . . . . . . . . . KING K. ROOL"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"THE END?"	"CreditsOutroText"
+	"V"	"CreditsOutroLogos"
+}
+
+
+
+}
