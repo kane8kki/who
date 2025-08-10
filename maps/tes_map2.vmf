@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "36"
+	"mapversion" "37"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "36"
+	"mapversion" "37"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -23985,7 +23985,7 @@ entity
 	"ignorenormals" "0"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
-	"model" "models/example/model.mdl"
+	"model" "models/props/schoolchair_01.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -24012,7 +24012,7 @@ entity
 	"ignorenormals" "0"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
-	"model" "models/example/model.mdl"
+	"model" "models/props/schoolchair_01.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"

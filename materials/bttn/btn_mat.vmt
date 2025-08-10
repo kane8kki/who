@@ -1,0 +1,6 @@
+"SDK_LightmappedGeneric"
+{
+	"$basetexture" "bttn/btn_clr"
+	"$surfaceprop" "Metal"
+	"$selfillum" "1"
+}

@@ -1,0 +1,12 @@
+"SDK_VertexLitGeneric"
+{
+	"$basetexture" "models/chessandpieces/chess_set_board_diff"
+	"$bumpmap" "models/chessandpieces/chess_set_board_normalmapalphaenvmapmask"
+	"$normalmapalphaenvmapmask" "1"
+
+    "$phong" "1"
+    "$phongboost" "1"
+    "$phongfresnelranges" "[1 0.5 1]"
+
+    "$model" "1"
+}

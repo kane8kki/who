@@ -1,8 +1,8 @@
 $modelname "example/model"
 
-$cdmaterials "models/xhezzeplastik"
+$cdmaterials "models/betta_door"
 
-$surfaceprop "plastic_box"
+$surfaceprop "wood"
 
 $staticprop
 

@@ -1,0 +1,71 @@
+qdir:    "c:\program files (x86)\steam\steamapps\sourcemods\who\modelsrc\chessandpieces\knight\"
+gamedir: "C:\Program Files (x86)\Steam\steamapps\sourcemods\who\"
+g_path:  "C:\Program Files (x86)\Steam\steamapps\sourcemods\who\ModelSrc\chessandpieces\knight\knight.qc"
+Building binary model files...
+Working on "knight.qc"
+SMD MODEL kight.smd
+SMD MODEL kight_colls.smd
+SMD MODEL anims/idle.smd
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\who\models/chessandpieces/knight.mdl:
+bones          896 bytes (1)
+animations     116 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures        72 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+bone flex driver       0 bytes
+Collision model volume 1.00 in^3
+collision        0 bytes
+total         1700
+---------------------
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\who\models/chessandpieces/knight.vvd:
+vertices     81840 bytes (1705 vertices)
+tangents     27280 bytes (1705 vertices)
+total       109184 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\sourcemods\who\models/chessandpieces/knight.sw.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:          15345 bytes
+indices:        15972 bytes
+bone changes:      16 bytes
+everything:     31458 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\sourcemods\who\models/chessandpieces/knight.dx80.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:          15345 bytes
+indices:        15972 bytes
+bone changes:      16 bytes
+everything:     31458 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\sourcemods\who\models/chessandpieces/knight.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:          15345 bytes
+indices:        15972 bytes
+bone changes:      16 bytes
+everything:     31458 bytes
+
+Completed "knight.qc"
+
+
+
