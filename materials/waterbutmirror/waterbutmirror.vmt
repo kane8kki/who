@@ -1,0 +1,23 @@
+SDK_LightmappedReflective
+{
+	"$basetexture" "waterbutmirror/syfm"
+	"$translucent" 1
+	
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refractamount" "0.2"
+	"$refracttint" "[1 1 1]"
+
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflectamount" "-0.2"
+	"$reflecttint" "[1 1 1]"
+
+	"$fresnelpower" "1"
+	"$minreflectivity" "0.5"
+	"$maxreflectivity" "1.0"
+	
+	"$normalmap" "waterbutmirror/syfm_nrm"
+
+	"$surfaceprop" "water"
+	"$bumpframe" "0"
+}
+
