@@ -1,7 +1,7 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8869"
+	"editorbuild" "8870"
 	"mapversion" "0"
 	"formatversion" "100"
 	"prefab" "0"
@@ -88,10 +88,12 @@ world
 	"id" "1"
 	"mapversion" "0"
 	"classname" "worldspawn"
+	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
 	"skyname" "sky_day01_01"
+	"vscriptlanguage_client" "-2"
 }
 cameras
 {

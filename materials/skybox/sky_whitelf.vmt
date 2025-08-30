@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+    "$basetexture" "vgui/white"
+    "$translucent" "0"
+    "$nofog" "1"
+    "$vertexcolor" "0"
+    "$vertexalpha" "0"
+    "$ignorez" "1"
+    "$nocull" "1"
+}

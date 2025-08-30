@@ -1,0 +1,12 @@
+"SDK_VertexLitGeneric"
+{
+	"$basetexture" "models/tiletest/marble_tiles_albedo"
+	"$bumpmap" "models/tiletest/marble_tiles_nrmpalphaenvmapmask"
+	"$normalmapalphaenvmapmask" "1"
+
+    "$phong" "1"
+    "$phongboost" "8"
+    "$phongfresnelranges" "[1 0.5 1]"
+
+    "$model" "1"
+}
