@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tile/marble_tiles_albedo"
+	"$surfaceprop" "Tile"
+}

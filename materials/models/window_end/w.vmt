@@ -1,0 +1,13 @@
+"SDK_VertexlitGeneric"
+{
+	"$basetexture" "models/window_end/w_albedo"
+	"$bumpmap" "models/window_end/w_normalmapalphaenvmapmask"
+	"$surfaceprop" "Wood_Plank"
+	"$normalmapalphaenvmapmask" "1"
+
+    "$phong" "1"
+    "$phongboost" "1"
+    "$phongfresnelranges" "[0.3 0.5 1]"
+
+    "$model" "1"
+}

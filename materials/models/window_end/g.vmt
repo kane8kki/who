@@ -1,0 +1,10 @@
+"SDK_VertexlitGeneric"
+{
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/window_end/window_rghnss"
+	"$additive" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$nodecal" "1"
+
+}

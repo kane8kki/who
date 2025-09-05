@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-    "$basetexture" "vgui/white"
+    "$basetexture" "skybox/sky_fake_white"
     "$translucent" "0"
     "$nofog" "1"
     "$vertexcolor" "0"

@@ -1,5 +1,6 @@
 "SDK_LightmappedGeneric"
 {
+	"$surfaceprop" "Tile"
 	"$basetexture" "tile/marble_tiles_albedo"
 	"$bumpmap" "tile/marble_tiles_nrmpalphaenvmapmask"
 	"$normalmapalphaenvmapmask" "1"
