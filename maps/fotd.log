@@ -1,0 +1,28 @@
+18:02:50.274 INFO  Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\who\maps\gm_fotd.bsp
+18:02:50.441 INFO  Using 'DStaticPropV10' for sprp version 10
+18:02:50.450 WARN  Lump LUMP_CLIPPORTALVERTS is empty
+18:02:50.455 WARN  Lump LUMP_DISPINFO is empty
+18:02:50.458 WARN  Lump LUMP_DISP_VERTS is empty
+18:02:50.459 WARN  Lump LUMP_DISP_TRIS is empty
+18:02:50.460 WARN  Tried reading lump 'LUMP_DISP_MULTIBLEND', but it is not supported by the bsp's version
+18:02:50.471 WARN  Lump LUMP_OVERLAY_SYSTEM_LEVELS is empty
+18:02:50.474 INFO  BSP version: 20
+18:02:50.475 INFO  Game: Garry's Mod
+18:02:50.490 INFO  No areaportals to reallocate...
+18:02:50.491 INFO  No occluders to reallocate...
+18:02:50.572 WARN  gm_fotd contains anti-decompiling flags or is obfuscated!
+18:02:50.573 WARN  Detected methods:
+18:02:50.574 WARN  IID entity obfuscation
+18:02:50.584 INFO  66 (37.9%) exact brushside->origface matches
+18:02:50.588 INFO  0/0 (nondisp/disp) original faces left after exact brushside->origface matching
+18:02:50.596 INFO  0 (0.0%) partial brushside->origface matches
+18:02:50.598 INFO  Writing brushes and planes
+18:02:50.654 INFO  Writing displacements
+18:02:50.654 INFO  Writing entities
+18:02:50.664 INFO  Writing func_details
+18:02:50.665 INFO  Writing func_viscluster
+18:02:50.671 INFO  Writing info_overlays
+18:02:50.682 INFO  Writing prop_statics
+18:02:50.685 INFO  Writing env_cubemaps
+18:02:50.686 INFO  Writing func_ladders
+18:02:50.690 INFO  Finished decompiling C:\Program Files (x86)\Steam\steamapps\sourcemods\who\maps\gm_fotd.bsp.

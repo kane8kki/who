@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "redplaster/redplaster__"
+	"$bumpmap" "redplaster/redplaster__nrm"
+	"$normalmap" "redplaster/redplaster__nrm"
+	"$surfaceprop" "Concrete"
+}

@@ -1,0 +1,9 @@
+"SDK_LightmappedGeneric"
+{
+	"$basetexture" "road__/road_albd"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.3 .3 .3]"
+	"$bumpmap" "road__/road_normalmapalphaenvmapmask"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "Concrete"
+}

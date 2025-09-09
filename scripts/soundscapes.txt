@@ -101,6 +101,11 @@
     }
 }
 
+"big_tilesandstructures_room"
+{
+	"dsp"	"10"
+	"dsp_volume" "5.0"
+}
 
 // This soundscape enables automatic dsp
 
