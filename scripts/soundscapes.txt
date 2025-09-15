@@ -71,14 +71,6 @@
         "attenuation"    "0"
         "wave"        "ambient/nature/outdoor_soundscape.wav"
     }
-
-    "playlooping"
-    {
-        "volume" "0.1"
-        "wave" "ambient/loopingmusic/3ds.wav"
-	"pitch"		"100"
-	"attenuation"	"0"
-    }
     
     "playrandom"
     {

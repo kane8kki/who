@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/placeholder/msgbox_mat"
+	"$selfillum" 1
+}

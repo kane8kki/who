@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "placeholders/window_win95"
+	"$surfaceprop" "AlienFlesh"
+	$selfillum 1
+}

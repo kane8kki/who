@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/placeholder/invisibl"
+	"$alphatest" 1
+}
