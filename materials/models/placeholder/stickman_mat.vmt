@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/placeholder/stickman_mat_albdo"
+	"$bumpmap" "models/placeholder/stickman_mat_nrmlmapalphaenvmapmask"
+	"$normalmapalphaenvmapmask" "1"
+
+    "$phong" "1"
+    "$phongboost" "1"
+    "$phongfresnelranges" "[1 0.5 1]"
+
+    "$model" "1"
+}
