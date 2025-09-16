@@ -14,7 +14,7 @@ $keyvalues
 $sequence "idle" "anims/idle.SMD"
 $collisionmodel "colls.SMD"
 {
-	$mass "100" // Poids réaliste pour une peluche
+	$mass "100"
 	$inertia 1
 	$damping 0
 	$rotdamping 0

@@ -1,0 +1,71 @@
+qdir:    "c:\program files (x86)\steam\steamapps\sourcemods\who\modelsrc\chessandpieces\floating_queen\"
+gamedir: "C:\Program Files (x86)\Steam\steamapps\sourcemods\who\"
+g_path:  "C:\Program Files (x86)\Steam\steamapps\sourcemods\who\ModelSrc\chessandpieces\floating_queen\floating_queen.qc"
+Building binary model files...
+Working on "floating_queen.qc"
+SMD MODEL ref.smd
+SMD MODEL anims/idle.smd
+SMD MODEL colls.smd
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\who\models/chessandpieces/floating_queen.mdl:
+bones          964 bytes (1)
+animations     124 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures        72 bytes
+keyvalues       56 bytes
+bone transforms        0 bytes
+bone flex driver       0 bytes
+Collision model volume 49920.01 in^3
+collision        0 bytes
+total         1836
+---------------------
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\who\models/chessandpieces/floating_queen.vvd:
+vertices     87696 bytes (1827 vertices)
+tangents     29232 bytes (1827 vertices)
+total       116992 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\sourcemods\who\models/chessandpieces/floating_queen.sw.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:          16443 bytes
+indices:        17640 bytes
+bone changes:       8 bytes
+everything:     34216 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\sourcemods\who\models/chessandpieces/floating_queen.dx80.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:          16443 bytes
+indices:        17640 bytes
+bone changes:      16 bytes
+everything:     34224 bytes
+---------------------
+Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\sourcemods\who\models/chessandpieces/floating_queen.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:          16443 bytes
+indices:        17640 bytes
+bone changes:      16 bytes
+everything:     34224 bytes
+
+Completed "floating_queen.qc"
+
+
+
