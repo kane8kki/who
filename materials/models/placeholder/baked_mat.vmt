@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/placeholder/baked_mat"
+	"$selfillum" 1
+	"$translucent" 1
+}
