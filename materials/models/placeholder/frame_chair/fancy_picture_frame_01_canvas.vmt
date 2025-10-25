@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/placeholder/frame_chair/fancy_picture_frame_01_canvas_diff"
+	"$bumpmap" "models/placeholder/frame_chair/fancy_picture_frame_01_canvas_nrm"
+}

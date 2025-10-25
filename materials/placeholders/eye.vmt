@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "placeholders/eye"
+	"$selfillum" "1"
+}
