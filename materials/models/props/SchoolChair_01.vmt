@@ -2,5 +2,4 @@
 {
 	"$basetexture" "models/props/SchoolChair_01_diff"
 	"$bumpmap" "models/props/SchoolChair_01_nrm"
-	"$normalmap" "models/props/SchoolChair_01_nrm"
 }
