@@ -61,7 +61,7 @@
 			game+mod			|gameinfo_path|content/hl2_scenes_dir.vpk
 			game+mod			|gameinfo_path|content/lostcoast_materials_dir.vpk
 			game+mod			|gameinfo_path|content/shared_content.vpk
-
+			game+mod			|gameinfo_path|content/who_misc_dir.vpk
 			// We search VPK files before ordinary folders, because most files will be found in
 			// VPK and we can avoid making thousands of file system calls to attempt to open files
 			// in folders where they don't exist.  (Searching a VPK is much faster than making an operating

@@ -5,4 +5,5 @@
 	"$bumpmap" "woodplanks2/woodplanks_2_nrm"
 	"$envmap" "env_cubemap"
 	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[0.3 0.3 0.3]"
 }

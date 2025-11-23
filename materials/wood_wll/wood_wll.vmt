@@ -5,5 +5,5 @@
 	"$bumpmap" "wood_wll/wood_wll_nrmalphaenvmapmask"
 	"$envmap" "env_cubemap"
 	"$normalmapalphaenvmapmask" "1"
-	"$envmaptint" "[.3 .3 .3]"
+	"$envmaptint" "[0.3 0.3 0.3]"
 }
