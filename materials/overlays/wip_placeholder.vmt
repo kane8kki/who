@@ -1,0 +1,7 @@
+LightMappedGeneric
+{
+    $basetexture "overlays/wip_placeholder"
+    $surfaceprop default
+    $translucent 1
+    $decal 1
+}
