@@ -2,8 +2,6 @@
 {
 	"$basetexture" "models/betta_door/Door_diff"
 	"$bumpmap" "models/betta_door/Door_nrm"
-	"$envmapmask" "models/betta_door/Door_envmap"
-	"$envmap" "env_cubemap"
 
     "$phong" "1"
     "$phongboost" "1"

@@ -3,10 +3,6 @@
 	"$basetexture" "models/betta_door/Door_diff"
 	"$bumpmap" "models/betta_door/Door_nrm"
 	"$surfaceprop" "Metal"
-	"$phong" "1"
-	"$phongboost" "3"
-    "$phongfresnelranges" "[0.2 0.5 1]"
-
-    // Optional: si tu veux activer la lumière dynamique + ombrage
-   	"$model" "1"
+	"$envmaptint" "[.7 .7 .7]"
+	"$envmap" "env_cubemap"
 }
