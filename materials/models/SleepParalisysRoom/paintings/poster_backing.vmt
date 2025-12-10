@@ -1,0 +1,5 @@
+"SDK_VertexlitGeneric"
+{
+	"$basetexture" "models/SleepParalisysRoom/paintings/poster_backing"
+	"$surfaceprop" "Wood_Furniture"
+}
