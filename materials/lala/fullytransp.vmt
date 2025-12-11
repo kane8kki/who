@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "lala/fullytransp"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.5 .5 .5]"
+	"$translucent" 1
+}

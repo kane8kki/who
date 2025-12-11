@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/him/maskMat_diff"
+	"$bumpmap" "models/him/maskMat_nrm"
+	"$normalmap" "models/him/maskMat_nrmm"
+	"$surfaceprop" "Concrete"
+}

@@ -1,5 +1,7 @@
 "VertexlitGeneric"
 {
+    "$color" "[1 1 1]"
+    "$additive" 1
 	"$basetexture" "models/itly_window/window_atlas_1_diff"
 	"$bumpmap" "models/itly_window/window_atlas_1_nrm"
 	"$envmapmask" "models/itly_window/window_atlas_1_envmap"
