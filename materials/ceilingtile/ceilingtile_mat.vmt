@@ -6,4 +6,5 @@
 	"$surfaceprop" "Wood_Panel"
 	"$normalmap" "ceilingtile/ceilingtile_bumpmap"
 	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.2 .2 .2]"
 }
