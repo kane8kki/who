@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "68"
+	"mapversion" "73"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -101,7 +101,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "68"
+	"mapversion" "73"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -58418,6 +58418,126 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "10177"
+	"classname" "env_projectedtexture"
+	"angles" "90 -0 0"
+	"brightnessscale" "1.0"
+	"cameraspace" "0"
+	"enableshadows" "1"
+	"farz" "750.0"
+	"lightcolor" "218 227 240 30"
+	"lightfov" "90.0"
+	"lightonlytarget" "0"
+	"lightworld" "1"
+	"linear_attn" "1"
+	"nearz" "4.0"
+	"ProjectedTextureVersion" "1"
+	"shadowatten" "0.0"
+	"shadowfilter" "0.5"
+	"shadowquality" "1"
+	"spawnflags" "3"
+	"texturename" "effects/PjectedSpotlight001"
+	"origin" "-405 711 61"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11000]"
+	}
+}
+entity
+{
+	"id" "10192"
+	"classname" "env_projectedtexture"
+	"angles" "90 -0 0"
+	"brightnessscale" "1.0"
+	"cameraspace" "0"
+	"enableshadows" "1"
+	"farz" "750.0"
+	"lightcolor" "218 227 240 30"
+	"lightfov" "90.0"
+	"lightonlytarget" "0"
+	"lightworld" "1"
+	"linear_attn" "1"
+	"nearz" "4.0"
+	"ProjectedTextureVersion" "1"
+	"shadowatten" "0.0"
+	"shadowfilter" "0.5"
+	"shadowquality" "1"
+	"spawnflags" "3"
+	"texturename" "effects/PjectedSpotlight001"
+	"origin" "-405 647 61"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11000]"
+	}
+}
+entity
+{
+	"id" "10195"
+	"classname" "env_projectedtexture"
+	"angles" "90 -0 0"
+	"brightnessscale" "1.0"
+	"cameraspace" "0"
+	"enableshadows" "1"
+	"farz" "750.0"
+	"lightcolor" "218 227 240 30"
+	"lightfov" "90.0"
+	"lightonlytarget" "0"
+	"lightworld" "1"
+	"linear_attn" "1"
+	"nearz" "4.0"
+	"ProjectedTextureVersion" "1"
+	"shadowatten" "0.0"
+	"shadowfilter" "0.5"
+	"shadowquality" "1"
+	"spawnflags" "3"
+	"texturename" "effects/PjectedSpotlight001"
+	"origin" "-341 647 61"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11000]"
+	}
+}
+entity
+{
+	"id" "10198"
+	"classname" "env_projectedtexture"
+	"angles" "90 -0 0"
+	"brightnessscale" "1.0"
+	"cameraspace" "0"
+	"enableshadows" "1"
+	"farz" "750.0"
+	"lightcolor" "218 227 240 30"
+	"lightfov" "90.0"
+	"lightonlytarget" "0"
+	"lightworld" "1"
+	"linear_attn" "1"
+	"nearz" "4.0"
+	"ProjectedTextureVersion" "1"
+	"shadowatten" "0.0"
+	"shadowfilter" "0.5"
+	"shadowquality" "1"
+	"spawnflags" "3"
+	"texturename" "effects/PjectedSpotlight001"
+	"origin" "-341 711 61"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11000]"
 	}
 }
 cameras
