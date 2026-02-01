@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "595"
+	"mapversion" "613"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -119,7 +119,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "595"
+	"mapversion" "613"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -51042,7 +51042,7 @@ entity
 	"angles" "0 180 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -51083,7 +51083,7 @@ entity
 	"angles" "0 0 0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -60326,7 +60326,7 @@ entity
 	"_quadratic_attn" "1"
 	"_zero_percent_distance" "0"
 	"style" "0"
-	"origin" "241.421 -428 191"
+	"origin" "229.891 -428 191"
 	editor
 	{
 		"color" "220 30 220"
@@ -60386,13 +60386,13 @@ entity
 {
 	"id" "292557"
 	"classname" "env_projectedtexture"
-	"angles" "30 90 7.48485e-07"
+	"angles" "39.1624 121.59 22.5596"
 	"brightnessscale" "1.0"
 	"cameraspace" "0"
 	"enableshadows" "1"
 	"farz" "750.0"
 	"lightcolor" "255 157 30 140"
-	"lightfov" "90.0"
+	"lightfov" "50.0"
 	"lightonlytarget" "0"
 	"lightworld" "1"
 	"linear_attn" "1"
@@ -60405,7 +60405,7 @@ entity
 	"spawnflags" "1"
 	"targetname" "pjectedtxture"
 	"texturename" "effects/flashlight001"
-	"origin" "25 -333.998 151.997"
+	"origin" "56.549 -236 122.993"
 	editor
 	{
 		"color" "220 30 220"
