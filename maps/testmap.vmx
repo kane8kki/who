@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "234"
+	"mapversion" "237"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -30,7 +30,7 @@ visgroups
 viewsettings
 {
 	"bSnapToGrid" "1"
-	"bShowGrid" "0"
+	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
 	"nGridSpacing" "2"
 }
@@ -107,7 +107,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "234"
+	"mapversion" "237"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites"
