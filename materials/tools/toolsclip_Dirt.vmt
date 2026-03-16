@@ -1,0 +1,10 @@
+SDK_LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "Tools/toolsclip"
+	"srgb?$basetexture" "Tools/toolsclip-dx10"
+	"%compileclip" 1
+	"$surfaceprop" "Grass"
+	"%keywords" "airexchange,borealis,c17downtown,c17industrial,c17sewers,c17skyscraper,c17trainstation,combine,kraken,wasteland"
+}

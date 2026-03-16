@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/NDpark/NDparkMat01_diff"
+	"$surfaceprop" "Grass"
+	"$alphatest" 1
+}
