@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "613"
+	"mapversion" "615"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -119,7 +119,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "613"
+	"mapversion" "615"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -56011,6 +56011,7 @@ entity
 	connections
 	{
 		"OnStartTouch" "window_nocolls,EnableCollision,,0,-1"
+		"OnStartTouch" "lightbulb_him,TurnOff,,0,-1"
 	}
 	solid
 	{
@@ -60326,7 +60327,8 @@ entity
 	"_quadratic_attn" "1"
 	"_zero_percent_distance" "0"
 	"style" "0"
-	"origin" "229.891 -428 191"
+	"targetname" "lightbulb_him"
+	"origin" "221 -428 191"
 	editor
 	{
 		"color" "220 30 220"
